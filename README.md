@@ -1,4 +1,4 @@
-# Chat with Repository
+# RepoChat
 
 An AI-powered application that allows you to have interactive conversations with any GitHub repository's codebase. Built with Streamlit, LangChain, and Groq.
 

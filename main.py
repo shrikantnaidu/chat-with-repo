@@ -10,7 +10,7 @@ def main():
         layout="wide"
     )
 
-    st.title("💬 AI Chat with Repository Memory")
+    st.title("💬 RepoChat")
 
     # Initialize session state
     initialize_session_state()
