@@ -1,3 +1,10 @@
+# Custom
+/report
+/repos_1739983260
+.env
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
