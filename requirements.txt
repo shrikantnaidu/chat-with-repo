@@ -2,7 +2,7 @@ deeplake
 langchain
 langchain-community
 langchain-huggingface
-openai
+groq
 pathspec
 python-dotenv
 streamlit
