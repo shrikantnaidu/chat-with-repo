@@ -1,6 +1,7 @@
 deeplake
 langchain
 langchain-community
+langchain-huggingface
 openai
 pathspec
 python-dotenv
