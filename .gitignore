@@ -1,9 +1,7 @@
 # Custom
-/report
-/repos_1739983260
+repos_1739983260/
 .env
-
-
+repos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
