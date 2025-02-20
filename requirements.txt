@@ -1,4 +1,4 @@
-deeplake
+deeplake == 3.9.40
 langchain
 langchain-community
 langchain-huggingface
