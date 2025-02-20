@@ -2,9 +2,9 @@ deeplake
 langchain
 langchain-community
 langchain-huggingface
+langchain-groq
 groq
 pathspec
-python-dotenv
 streamlit
 streamlit_chat
 tiktoken
